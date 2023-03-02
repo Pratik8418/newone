@@ -351,12 +351,11 @@ body{
 
 
 .example{
-    background-color: #e36686;
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    align-items: center;
-    height: 800px;
-
+  background-color: #e36686;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  align-items: center;
+  height: 800px;
 }
 
